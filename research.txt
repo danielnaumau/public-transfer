@@ -34,3 +34,5 @@ https://stackoverflow.com/questions/51423201/use-maven-repo-to-distribute-json-s
 https://www.otomoto.pl/osobowe/oferta/suzuki-grand-vitara-ID6HWxTk.html
 
 https://www.otomoto.pl/osobowe/oferta/toyota-celica-ID6HYnnz.html
+
+https://aimaker.substack.com/p/how-i-turned-claude-code-into-personal-ai-agent-operating-system-for-writing-research-complete-guide
